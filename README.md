@@ -16,7 +16,7 @@ You can get it on npm:
 2. npm run dev
 3. and look at this website on localhost
 
-or...
+or look at...
 
 ## Ready Project:
 
