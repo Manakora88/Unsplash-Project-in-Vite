@@ -10,4 +10,4 @@
 
 ## Ready Project:
 
-CLICK: my-unsplash-images.netlify.app (Netlify)
+CLICK: https://my-unsplash-images.netlify.app/ (Netlify)
